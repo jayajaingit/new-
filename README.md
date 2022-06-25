@@ -1,2 +1,3 @@
 # new-
-just trial
+eclpse and sql related project
+
